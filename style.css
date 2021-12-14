@@ -1,0 +1,12 @@
+:root {
+  --shade-primary: #000;
+  --shade-minor: gray;
+}
+
+body {
+  font-family: Arial, Lato;
+}
+
+.caption {
+  color: var(--shade-minor);
+}
